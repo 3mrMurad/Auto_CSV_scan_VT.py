@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 # Your VirusTotal's API key here
-API_KEY = '6f1c424e85a61b8c10da18afb9d376927c151baef4bb960d3354fba340cf9fa8'
+API_KEY = ''
 
 
 class VirusTotalScanner:
